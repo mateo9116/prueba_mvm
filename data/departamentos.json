@@ -1,0 +1,6 @@
+{
+    "nombre":
+        ["ingenieria","recursos_humanos","gerencia","software","hardware"],
+    "descripción":
+        ["lorem ipsum", "lorem ipsum", "lorem ipsum", "lorem ipsum", "lorem ipsum"]
+}

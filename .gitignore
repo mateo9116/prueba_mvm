@@ -1,0 +1,7 @@
+#Archivos compilados
+/__pycache__/
+*.pyc
+#logs de eventos
+*.log
+#Entorno virtual
+/venv/
